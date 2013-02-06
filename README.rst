@@ -1,8 +1,9 @@
 Large examples of real Firehose data
 ====================================
 
-This project contains static analysis emitted by mock-with-analysis
-in Firehose format.
+This project contains static analysis emitted by `mock-with-analysis
+<https://github.com/fedora-static-analysis/mock-with-analysis>`_
+in `Firehose <https://github.com/fedora-static-analysis/firehose>`_ format.
 
 The directory structure is of the form:
 
